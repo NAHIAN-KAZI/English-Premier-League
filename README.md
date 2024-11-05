@@ -1,7 +1,7 @@
 # EPL Dataset Analysis
 Premier League Data Analysis and Visualization
 
-This project focuses on multiple CSV files containing season-wise English Premier League data into a single consolidated dataset. Once merged, the data is analyzed for insights using a Jupyter Notebook, with a focus on data preparation, exploration, and future predictive modeling.
+This project focuses on multiple CSV files containing season-wise English Premier League data, merging into a single consolidated dataset. Once merged, the data is analyzed for insights using a Jupyter Notebook, with a focus on data preparation, exploration, and future predictive modeling.
 
 ## Project Overview
 
